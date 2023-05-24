@@ -1,16 +1,16 @@
-# First-Excel-Project
+# Excel Project: Analyzing Sales Data from an Online Store
 
-This is my first Excel project in which I have taken a sample dataset from an online store, created an annual report, sorted it, and generated various visualizations such as pivot tables, graphs, pie charts, sliders, etc.
+This represents my inaugural Excel project, wherein I have acquired a sample dataset from an online store. I meticulously processed, organized, and created an annual report from the dataset, employing a range of visual aids such as pivot tables, graphs, pie charts, and sliders.
 
-Sample questions:
+The ensuing inquiries serve as an integral part of the project:
 
-1)Compare the sales and orders using a single chart. 
-2)Which month had the highest sales and orders?
-3)Who made more purchases - men or women in 2022? 
-4)What are the different order statuses in 2022?
-5)List the top 10 states contributing to the sales.
-6)Explore the relationship between age and gender based on the number of occurrences.
-7)Which channel is contributing to the maximum sales?
-8)What is the highest selling category?, etc.
+1)Employing a unified chart, conduct a comparative analysis of sales and orders.
+2)Identify the month that exhibited the highest sales and orders. 
+3)Determine whether men or women made more purchases in 2022.
+4)Vvarious order statuses observed in the same year.
+5)Compile a comprehensive list of the top 10 states that significantly contribute to the overall sales.
+6)Undertake an exploration of the correlation between age and gender based on frequency of occurrences.
+7)Ascertain the channel that contributes the most to overall sales.
+8)Determine the category that boasts the highest sales figures.
 
-I have solved the above questions and created an interactive dashboard in Excel
+I have successfully addressed the aforementioned queries and skillfully developed an interactive dashboard utilizing Microsoft Excel.
